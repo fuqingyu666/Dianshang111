@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-xiaotuxian
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,7 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# Dianshang111
+前端入门级电商项目
+>>>>>>> 7139dff7fe10eea199684560371943417ab14603
