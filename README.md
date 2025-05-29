@@ -36,5 +36,5 @@ npm run lint
 ```
 =======
 # Dianshang111
-前端入门级电商项目
+The Project of Shopping
 >>>>>>> 7139dff7fe10eea199684560371943417ab14603
